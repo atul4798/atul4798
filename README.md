@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hola👋! I am Atul.
+![](https://komarev.com/ghpvc/?username=atul4798&label=Profile%20views&color=0e75b6&style=flat)
+## Let's connect
+[![](https://img.shields.io/twitter/follow/imsaadahmad?label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/atulkmr47)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-kumar-singh-03a860159/)
 
-<!--
-**atul4798/atul4798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## My skills
+<p>
+<img src="https://img.shields.io/badge/%F0%9F%93%B6-Tableau-blue" alt="Tableau" />
+<img src="https://img.shields.io/badge/%F0%9F%93%85-SQL-green" alt="MSSQL" />
+<img src="https://img.shields.io/badge/%F0%9F%90%8D-Python-yellow" alt="Python" />
+<img src="https://img.shields.io/badge/%E2%9C%A1%EF%B8%8F-Alteryx-blueviolet" alt="Alteryx" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+<img src = "https://github-readme-stats.vercel.app/api?username=atul4798&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul4798" alt="atulsingh" /></p>
