@@ -7,10 +7,10 @@
 
 ## My skills
 <p>
-<img src="https://img.shields.io/badge/%F0%9F%93%B6-Tableau-blue" alt="Tableau" />
+<img src="https://img.shields.io/badge/%E2%9A%9B%EF%B8%8F-ReactJS-blue" alt="ReactJS" />
 <img src="https://img.shields.io/badge/%F0%9F%93%85-SQL-green" alt="MSSQL" />
 <img src="https://img.shields.io/badge/%F0%9F%90%8D-Python-yellow" alt="Python" />
-<img src="https://img.shields.io/badge/%E2%9C%A1%EF%B8%8F-Alteryx-blueviolet" alt="Alteryx" />
+<img src="https://img.shields.io/badge/%F0%9F%8D%B5-JavaScript-yellow" alt="Javascript" />
 </p>
 
 ## Github Stats
